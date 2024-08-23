@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas Pirola</h1>
-<h3 align="center">A passionate frontend developer from São Paulo, Brazil</h3>
+<h1 align="center">Olá 👋,sou Lucas Pirola</h1>
+<h3 align="center">Ativista e produtor de software livre, baseado em São Paulo, Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpirola&label=Profile%20views&color=0e75b6&style=flat" alt="lpirola" /> </p>
 
@@ -7,25 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/lpirola" target="blank"><img src="https://img.shields.io/twitter/follow/lpirola?logo=twitter&style=for-the-badge" alt="lpirola" /></a> </p>
 
-- 🔭 I’m currently working on [BONDE](www.bonde.org)
+- 🔭 Estou trabalhando atualmente na produção do software livre [Rede Mapas](https://rede.mapas.tec.br)
 
-- 🌱 I’m currently learning **Jenkins-x**
+- 🌱 Estou aprendendo a mobilizar pessoas para atuarem na [Rede Soberania Digital](https://soberania.digital/)
 
-- 👯 I’m looking to collaborate on **Javascript, NodeJS, React, Kubernetes**
+- 👯 Estou colaborando nas seguintes linguagens **Javascript, NodeJS, React, VueJS, PHP, Python, Containers, Linux**
 
-- 🤝 I’m looking for help with **Kubernetes**
+- 🤝 Estou procurando pessoas para trabalhar com software livre
 
-- 👨‍💻 All of my projects are available at [lpirola.tech](lpirola.tech)
+- 👨‍💻 Todos os meus projetos e experiências estão disponíveis [aqui](cv.caicara.dev)
 
-- 📝 I regularly write articles on [blog.lpirola.tech](blog.lpirola.tech)
+- 📝 Eu compartilho algumas descobertas no mundo do software livre [aqui](caicara.dev)
 
-- 💬 Ask me about **react, ts, webpack, css, express, pm2, postgres, kubectl**
+- 💬 Pergunte-me sobre **react, ts, webpack, css, slim-framework, vuejs, postgres, php**
 
-- 📫 How to reach me **lucaspirola@gmail.com**
-
-- 📄 Know about my experiences [cv.lpirola.tech](cv.lpirola.tech)
-
-- ⚡ Fun fact **I love beach, balls, babies, not in that order :)**
+- ⚡ Fato engraçado **Eu morei na praia e sinto muitas saudades do mar, e em forma de homenagem, criei um personagem programador chamado Caiçara Dev.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
